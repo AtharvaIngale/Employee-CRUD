@@ -1,5 +1,5 @@
 # Employee CRUD
-## Employee CRUD is a react app which is used to add, delete and update employees.
+## Employee CRUD is a react app which is used to add, delete and update employees. Tech stack- React and MySql.
 
 ### Getting Started with Create React App
 
